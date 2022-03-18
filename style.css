@@ -34,7 +34,8 @@ input {
     color: white;
     padding: 8px 20px;
     border-radius: 30px;
-    border-style: solid grey;
+    border: solid 1px black;
+    margin-bottom: 40px;
 }
 
 .button:hover {
