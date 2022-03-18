@@ -2,13 +2,19 @@ none {
     border: solid red 1px;
 }
 
-body {
+h1 {
     text-align: center;
-    font-family: 'Roboto';
+    font-family: 'Lustria';
     font-weight: lighter;
+    font-size: 60px;
+}
+
+#forms {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
 }
 
 input {
     margin: 10px;
 }
-
