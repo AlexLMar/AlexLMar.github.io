@@ -1,0 +1,14 @@
+none {
+    border: solid red 1px;
+}
+
+body {
+    text-align: center;
+    font-family: 'Roboto';
+    font-weight: lighter;
+}
+
+input {
+    margin: 10px;
+}
+
