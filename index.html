@@ -3,53 +3,36 @@
   <head>
   </head>
   <body>
-    <nav>
-      <ul>
-        <li><a href="">Blog</a></li>
-        <li><a href="">Media</a></li>
-        <li><a href="">About</a></li>
-      </ul>
-    </nav>
-    <header>
-      <h1>New York City</h1>
-    </header>
-    <main>
-      <section>
-        <article>
-          <p>New York City is made up of five boroughs which include Queens, Manhattan, Brooklyn, the Bronx, and Staten Island. The city is the home of approximately 8 million people. In 1876, France gifted the City of New York what is known as the Statue of Liberty, which is currently located on Ellis Island commonly visited by tourists. However, it took 10 years to assemble and therefore wasn’t unveiled until 1886. Another tourist destination is Times Square. Times Square is commonly known for the big buildings, Broadway shows, and bright neon signs. This famous location was named after The New York Times after the Times moved to that location. Prior to that, it was named Longacre Square. New York City is also known for its bridges that connect the boroughs and allow ease of transportation.
-</p>
-        </article>
-      </section>
-      <figure>
-        <img src="https://content.codecademy.com/courses/Semantic%20HTML/statue-of-liberty.jpeg">
-        <figcapture>This is the Statue of Liberty, a popular tourist attraction located on Ellis Island.</figcapture>
-      </figure>
-      <aside>
-        <p>New York City is very popular for the variety of great food it has. Some of the top food items in NYC include:</p>
-        <ol>
-          <li>Pizza</li>
-          <li>Bagels</li>
-          <li>Burgers and Sandwiches</li>
-          <li>Ramen</li>
-          <li>Tacos</li>
-          <li>Pasta</li>
-          <li>Desserts</li>
-        </ol>
-      </aside>
-      <section id="media">
-        <article>
-          <h2>The Scenery in NYC</h2>
-          <p>While the view in the city is beautiful, the sounds are not as lovely. Below you'll see an example of the view and the sounds you'll deal with in NYC on a daily basis.</p>
-        </article>
-        <video src="https://content.codecademy.com/courses/Semantic%20HTML/nyc-skyline-timelapse.mp4" controls></video> 
-        <embed src="https://content.codecademy.com/courses/Semantic%20HTML/nyc-skyline.jpeg"/>
-        <audio src="https://content.codecademy.com/courses/Semantic%20HTML/nyc-sounds.mov" controls></audio>
-      </section>
-    </main>
-    <footer id="about">
-      <p>Posted by: your name</p>
-      <p>Contact information: Blogger@NYC.com</p>
-    </footer>
-     
+    <div id="forms">
+
+      <form method="post" action="">
+
+        <!-- Filtering to include: date, searchbox, checkboxes-->
+        <!-- What is "unknown term"?, you can learn here: ... -->
+        <!-- Fork learning system? -->
+
+        <input type="number"name="number-input"/>How come this tag has a forward slash and others don't?<br>
+
+        <input type="checkbox" name="breakfast" value="bacon">Bacon<br>
+
+        <input type="checkbox" name="breakfast" value="cheese">Cheese<br>
+
+        <input list="id-of-datalist">
+        <br>
+
+        <!--Include name in datalist?-->
+        <datalist id="id-of-datalist">
+          <option value="option 1">
+          <option value="option 2">
+        </datalist>
+
+        <input type="sumbit" value="Text in the button">
+
+        <!--Can set conditions to the data submitted by seeting attributes such as required, max, min, maxlength, minlength, 'pattern' to match regular expressions, and others-->
+
+      </form>
+
+    </div>
+
   </body>
 </html>
