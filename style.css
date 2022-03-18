@@ -27,3 +27,20 @@ h2 {
 input {
     margin: 10px;
 }
+
+.button {
+    font-family: 'Lato', sans-serif;
+    background-color: hsl(205, 71%, 35%);
+    color: white;
+    padding: 8px 20px;
+    border-radius: 30px;
+    border-style: solid grey;
+}
+
+.button:hover {
+    background-color: hsl(205, 71%, 45%);
+}
+
+.button:active {
+    background-color: hsl(205, 71%, 65%);
+}
