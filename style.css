@@ -6,6 +6,12 @@
     box-sizing: content-box;
 }
 
+#gen-logo {
+    display: block;
+    height: 100px;
+    margin: 30px auto;
+}
+
 h1 {
     text-align: center;
     font-family: 'Lustria';
@@ -76,7 +82,6 @@ select {
     margin: 0px auto 2em;
     border: solid 1px black;
     padding-right: 20px;
-
 }
 
 #tags-table {

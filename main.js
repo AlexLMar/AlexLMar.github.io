@@ -1166,6 +1166,11 @@ const generateTimeline = function() {
   const script = document.createElement('script');
   script.src = './timelineSource.js';
 
+  // Remove previous script (first time there's none)
+  let element = document.getElementById("timeline-scripts");
+while (element.firstChild) {
+  element.removeChild(element.firstChild);
+};
   // Append to the 'body' element
   document.getElementById("timeline-scripts").appendChild(script);
 };
