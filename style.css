@@ -28,23 +28,35 @@ h4 {
     margin: 0 auto 2em;
 }
 
+.forms {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    margin: auto auto;
+    position: relative;
+}
+
 #request-change-box {
     position: absolute;
-    top: 45%;
+    top: 100px;
     font-family: 'Lustria';
     padding: 5px 10px 7px;
     border: solid black 1px;
     border-radius: 50px;
     background-color: hsl(205, 71%, 95%);
-    transform: translateX(-75px) rotate(-90deg) ;
+    transform: translateX(-100px) rotate(-90deg);
     cursor: pointer;
+}
 
+#request-change-box > a {
+    text-decoration: none;
 }
 
 #request-change-text {
     vertical-align: middle;
-    font-size: 10px;
+    font-size: 12px;
     margin-left: 5px;
+    text-decoration: none;
 }
 
 #raising-hand-icon {
@@ -52,16 +64,8 @@ h4 {
     vertical-align: middle;
 }
 
-#request-change-box:hover > img {
+#request-change-box:hover > a > img {
     content: url("./icons/raising-hand-black.png");
-}
-
-.forms {
-    text-align: center;
-    font-family: 'Lato', sans-serif;
-    font-weight: bold;
-    margin: auto auto;
-    position: relative;
 }
 
 #checkbox-table {

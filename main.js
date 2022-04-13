@@ -235,7 +235,21 @@ const GENInternationalData = {
         },
         "text": {
           "headline": "Gaia Trust rewards GEN initiatiors",
-          "text": "In December 2012 the world was celebrating the end of one Mayan age and the beginning of a new one. Gaia Trust decided to give 5 rewards to 5 of the initiators and main persons of GEN and Gaia Education as symbols of all those having given birth to a new culture: Max Lindegger, Albert Bates and Declan Kennedy for building the GEN networks and to May East and Kosha Joubert for being inspiring leaders of Gaia Education and GEN in recent years.<br><br>By visiting an ecovillage like Findhorn, Sieben Linden, Tamera, Damanhur, Auroville or Ecovillage at Ithaca, you can experience a new culture emerging. They are all a little different but common is a whole body culture where people are in a process of change, where the goal is to live a full and joyful social life, while keeping the ecological footprint low, and not forgetting the old GEN saying: \"If it ain't fun, it ain't sustainable!\""
+          "text": "In December 2012 the world was celebrating the end of one Mayan age and the beginning of a new one. Gaia Trust decided to give 5 rewards to 5 of the initiators and main persons of GEN and Gaia Education as symbols of all those having given birth to a new culture: Max Lindegger, Albert Bates and Declan Kennedy for building the GEN networks and to May East and Kosha Joubert for being inspiring leaders of Gaia Education and GEN in recent years."
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.youtube.com/watch?v=baLmdnjOwFU",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "year": "2022"
+        },
+        "text": {
+          "headline": "Supporting pioneers in service to Gaia",
+          "text": "By visiting an ecovillage like Findhorn, Sieben Linden, Tamera, Damanhur, Auroville or Ecovillage at Ithaca, you can experience a new culture emerging. They are all a little different but common is a whole body culture where people are in a process of change, where the goal is to live a full and joyful social life, while keeping the ecological footprint low, and not forgetting the old GEN saying: \"If it ain't fun, it ain't sustainable!\""
         }
       },      
     ]
