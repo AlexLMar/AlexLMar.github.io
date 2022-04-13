@@ -31,7 +31,7 @@ const GENInternationalData = {
       {
         "media": {
           "url": "https://mlwaayym0fy2.i.optimole.com/mCXH0oE-VXCg5FAq/w:auto/h:auto/q:auto/https://gaia.org/wp-content/uploads/2016/07/Fjordvang-world-university.jpg",
-          "caption": "",
+          "caption": "Fjordvang farm",
           "credit": ""
         },
         "start_date": {
@@ -45,7 +45,7 @@ const GENInternationalData = {
       {
         "media": {
           "url": "https://www.context.org/wp-content/uploads/icimages/ic01f.jpg",
-          "caption": "",
+          "caption": "First issue of In Context magazine",
           "credit": ""
         },
         "start_date": {
@@ -67,7 +67,7 @@ const GENInternationalData = {
         },
         "text": {
           "headline": "\"Ecovillages and Sustainable Communities: A Report for Gaia Trust\"",
-          "text": "The Gilmans made a report for Gaia Trust showing that, although many exciting and vastly different communities existed, a full-scale, ideal ecovillage did not yet exist. But, together, the existing projects made up a vision of a different culture and lifestyle that had great potential. In it, an ecovillage was defined as a \"human-scale, full-featured settlement in which human activities are harmlessly integrated into the natural world in a way that is supportive of healthy human development and can be successfully continued into the indefinite future\"<br><br>https://www.context.org/iclib/ic29/gilman1/"
+          "text": "The Gilmans made a report for Gaia Trust showing that, although many exciting and vastly different communities existed, a full-scale, ideal ecovillage did not yet exist. But, together, the existing projects made up a vision of a different culture and lifestyle that had great potential. In it, an ecovillage was defined as a: <br><br>\"Human-scale, full-featured settlement in which human activities are harmlessly integrated into the natural world in a way that is supportive of healthy human development and can be successfully continued into the indefinite future\".<br><br>https://www.context.org/iclib/ic29/gilman1/"
         }
       },
       {
@@ -87,7 +87,7 @@ const GENInternationalData = {
       {
         "media": {
           "url": "https://image.isu.pub/130905132054-e49ce353972d50ae6eaf93f72ca57359/jpg/page_1_thumb_large.jpg",
-          "caption": "",
+          "caption": "National Association of Eco-Communities' membership magazine",
           "credit": ""
         },
         "start_date": {
@@ -101,7 +101,7 @@ const GENInternationalData = {
       {
         "media": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Findhorn-Foundation-and-Community.jpg",
-          "caption": "",
+          "caption": "Findhorn community",
           "credit": ""
         },
         "start_date": {
@@ -115,7 +115,7 @@ const GENInternationalData = {
       {
         "media": {
           "url": "https://ecovillage.org/wp-content/uploads/drupal_files/images/newsmar15_5_0.jpg",
-          "caption": "",
+          "caption": "Founding group at Findhorn 1995",
           "credit": ""
         },
         "start_date": {
@@ -124,6 +124,118 @@ const GENInternationalData = {
         "text": {
           "headline": "GEN Founding group",
           "text": "Immediately following this meeting, 20 people from different ecovillages met for five days and the Global Ecovillage Network was formally established, consisting of three regional networks to cover the globe geographically, with centers at ecovillages The Farm (USA), Lebensgarten (Germany) and Crystal Waters (Australia), with an international coordinating office at Gaia Trust, Denmark. Gaia Trust committed to covering the expenses of the network for 3-5 years. The plan was to focus initially on forming regional networks that would link existing projects. At the same time a second longer-term goal was set to create global services, like an education network, that would cut across regions, as soon as budgets and manpower permitted."
+        }
+      },
+      {
+        "media": {
+          "url": "https://flic.kr/p/2n5zEjD",
+          "caption": "At the exhibition of the UN Habitat in Istanbul, GEN's straw bale wall",
+          "credit": ""
+        },
+        "start_date": {
+          "year": "1996"
+        },
+        "text": {
+          "headline": "UN Habitat II: Istanbul",
+          "text": "At the Findhorn meeting it was decided — inspired by Rashmi Mayur\'s passionate presence — to join the United Nations Habitat II conference in Istanbul the following summer. A major exhibition at the NGO forum was built: a long straw bale wall, plastered with clay, so that it became an ideal place for posters with photos from ecovillages around the world. A model windmill, solar cells and running water contributed to a pleasant atmosphere. Hildur had prepared a booklet in 5000 copies called The Earth is Our Habitat. More than 40 workshops covering all issues of ecovillages and global politics were held. Outside, GEN was in charge of building an old Harran stone house with master builders from the region."
+        }
+      },
+      {
+        "media": {
+          "url": "https://flic.kr/p/2n5y2kV",
+          "caption": "The GEN Board takes a break on a Mexican pyramid",
+          "credit": ""
+        },
+        "start_date": {
+          "year": "1996"
+        },
+        "text": {
+          "headline": "Regional Networks",
+          "text": "The next three years were a period of building networks under the leadership of the three regional secretaries, namely Declan Kennedy, Albert Bates, and Max Lindegger, who constituted the initial GEN board, with coordination by Hamish Stewart, the International Secretary, based at Fjordvang.<br><br>This period resulted in the establishment and growth of three autonomous networksvcovering the globe: The Ecovillage Network of the Americas (ENA), GEN-Europe, whichvalso covered Africa for the time being, and GEN Asia/Oceania (GENOA). The GEN board met in many parts of the world during this time."
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "year": "2001"
+        },
+        "text": {
+          "headline": "Gaia Trust Gears Down",
+          "text": "In June 2001, Gaia Trust warned that its financial support to GEN would be gradually decreased over the next two years. GEN would have to find new sources of funding. This was because it was always Gaia Trust’s policy to use its capital over a relatively short period while its founders were still active, and also to ensure that GEN does not become dependent."
+        }
+      },
+      {
+        "media": {
+          "url": "https://flic.kr/p/2n5zEpd",
+          "caption": "Rashmi Mayur",
+          "credit": ""
+        },
+        "start_date": {
+          "year": "2002"
+        },
+        "text": {
+          "headline": "The GEN Ambassador — Rashmi Mayur",
+          "text": "No history of GEN would be complete without mentioning the special role played by the late Dr. Rashmi Mayur, leader of the International Institute for Sustainable Future in Mumbai, India.<br><br>Rashmi was unofficially GEN’s “ambassador to the UN”. He participated in all the big conferences as well as many planning meetings, as he was adviser to the UN and several Southern governments.<br>At the Johannesburg UN Earth Summit of August 2002, Rashmi was appointed official spokesman for the South, and had planned 28 major speeches and workshops. But he tragically suffered a debilitating stroke during his first speech, was unconscious for four months, slowly recovered all faculties but passed away in early 2004. He is greatly missed by all his colleagues who carry on his vision to create a more sustainable, more just world."
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "year": "2002"
+        },
+        "text": {
+          "headline": "Of Learning and Immortality",
+          "text": "Rashmi was also a highly developed spiritual person and an accomplished poet. Here is one poem on education written during the opening and read loud at the 1998 educationmconference at Fjordvang:<br><br><br><p style='text-align:center'><i><b>Of Learning and Immortality</b><br><br>Then they asked:<br>Master what is education?<br><br>The wise man spoke silently,<br><br>\"There is no master<br>and no education,<br>my people\"<br><br>People were bemused<br>Master continued,<br><br>\"Life is an opportunity<br>to realize ourselves.<br>We are creatures<br>of learning.<br>To learn is to be creative.<br>To learn is to know<br>the root of our existence.<br>To learn is to preserve<br>Our sacred Earth.<br>To learn is to live<br>in harmony with the whole.<br>To learn is to give<br>birth to the future.<br>To learn is to reach<br>enlightenment - Nirvana.<br>To learn is to be liberated<br>from the finiteness<br>of Space and Time<br>To learn is to be<br>immortal\".<br><br>Master was no more.<br></i></p>"
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "year": "2004"
+        },
+        "text": {
+          "headline": "Cutting back on funding",
+          "text": "As forewarned, Gaia Trust was forced to cut back on its level of funding for GEN by a factor of ten after July 2003. For all intents and purposes, GEN had become a volunteer organization.<br><br>After the cutback in 2003, GEN continued to develop slowly over the next six years or so. These were difficult years. A positive aspect was the annual GEN-Europe assembly, which attracted more and more people each year, as the ecovillage idea gradually spread, not least to Eastern Europe and Russia. With the introduction of the Gaia Education program in 2005, new life emerged in many ecovillages, as education was seen not only as a vehicle for local outreach but also for generating some income. The free material and a polished curriculum with UNITAR and UNESCO's stamp of approval made it easy to get started and attract people. Education was becoming an essential part of every ecovillage's story."
+        }
+      },
+      {
+        "media": {
+          "url": "https://flic.kr/p/2n5y2jc",
+          "caption": "May East, Gaia Education Chief International Officer, and Kosha Joubert.",
+          "credit": ""
+        },
+        "start_date": {
+          "year": "2008"
+        },
+        "text": {
+          "headline": "Reviving GEN",
+          "text": "A new activist phase in GEN's history began with the election of Kosha Joubert as president in 2008. Kosha was one of the 30 educators that had developed the Gaia Education curriculum and she had been very successful in introducing it to her ecovillage, Sieben Linden in Germany, inviting many foreign participants and getting financial support from the German government. One of the major goals of this time was to support the emergence of an independent African network which was initiated in 2012, with financial help, once again, from the German foreign ministry, which followed developments with great interest. <br><br>A new generation of GEN was very creative in extending its range of activities, while inspiring increasing momentum in all regions. A more streamlined organization and broader vision was established. In 2013, an independent South American network—CASA—evolved out of ENA. The youth organization, NextGEN, flourished."
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "year": "2012"
+        },
+        "text": {
+          "headline": "Gaia Trust rewards GEN initiatiors",
+          "text": "In December 2012 the world was celebrating the end of one Mayan age and the beginning of a new one. Gaia Trust decided to give 5 rewards to 5 of the initiators and main persons of GEN and Gaia Education as symbols of all those having given birth to a new culture: Max Lindegger, Albert Bates and Declan Kennedy for building the GEN networks and to May East and Kosha Joubert for being inspiring leaders of Gaia Education and GEN in recent years.<br><br>By visiting an ecovillage like Findhorn, Sieben Linden, Tamera, Damanhur, Auroville or Ecovillage at Ithaca, you can experience a new culture emerging. They are all a little different but common is a whole body culture where people are in a process of change, where the goal is to live a full and joyful social life, while keeping the ecological footprint low, and not forgetting the old GEN saying: \"If it ain't fun, it ain't sustainable!\""
         }
       },      
     ]

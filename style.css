@@ -64,6 +64,14 @@ h4 {
     position: relative;
 }
 
+#checkbox-table {
+    margin: 0 auto 20px;
+}
+
+input[type="checkbox"] {
+
+}
+
 #dates-table {
     margin: auto;
 }
