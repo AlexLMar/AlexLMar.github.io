@@ -259,12 +259,12 @@ const AHisStoryData = {
   "title": {
       "media": {
         "url": "https://flic.kr/p/2n5QAci",
-        "caption": "At the Un the day before 9/11. L to R: Giovanni Ciarlo, Liora Adler, Linda Joseph, Lois Arkin, Albert Bates",
+        "caption": "At the UN the day before 9/11. L to R: Giovanni Ciarlo, Liora Adler, Linda Joseph, Lois Arkin, Albert Bates",
         "credit": ""
       },
       "text": {
         "headline": "A His Story of GEN",
-        "text": "<p>by Albert Bates</p>"
+        "text": "<p>by Albert Bates</p><br><br>As environmental scientist William J. Metcalf first observed in 1972, any real solutions to the global environmental crises of the present era must necessarily begin with <u>changes in lifestyle</u>. Ecovillages are providing both an individual vessel and a cultural vehicle for rapid social transformation. During my tenure at GEN, we did what we could to get that point across."
       }
   },
   "events": [
@@ -940,7 +940,365 @@ const AHisStoryData = {
         "text": "<i>San Rafael, CA</i> <br><br> Dominican College"
       }
     },
-          
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1997",
+        "month": "6",
+        "day": "7"
+      },
+      "end_date": {
+        "year": "1997",
+        "month": "6",
+        "day": "16"
+      },
+      "text": {
+        "headline": "Ecovillage Design presentations with Hildur Jackson and Rashmi Mayur",
+        "text": "<i>St.Petersburg, Sortavala;</i> and <i>Rysovo, Russia</i> <br><br> "
+      }
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1997",
+        "month": "7",
+        "day": "15"
+      },
+      "end_date": {
+        "year": "1997",
+        "month": "7",
+        "day": "19"
+      },
+      "text": {
+        "headline": "ENA (Ecovillage Network of the Americas) Organizational Meetings",
+        "text": "<i>The Farm ecovillage</i> <br><br> "
+      }
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1997",
+        "month": "8",
+        "day": "15"
+      },
+      "end_date": {
+        "year": "1997",
+        "month": "8",
+        "day": "20"
+      },
+      "text": {
+        "headline": "ENA (Ecovillage Network of the Americas) Organizational Meetings",
+        "text": "<i>Sirius ecovillage</i> <br><br> "
+      }
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1997",
+        "month": "8",
+        "day": "24"
+      },
+      "end_date": {
+        "year": "1997",
+        "month": "9",
+        "day": "3"
+      },
+      "text": {
+        "headline": "Presentations on GEN and front page photo feature in largest Rejkavik daily newspaper",
+        "text": "<i>Solheimer and Rejkavik, Iceland</i> <br><br> "
+      }
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1997",
+        "month": "10",
+        "day": "26"
+      },
+      "end_date": {
+        "year": "1997",
+        "month": "10",
+        "day": "26"
+      },
+      "text": {
+        "headline": "Ecovillage Open Day",
+        "text": "<i>Tlholego Institute, Rustenburg, S. Africa</i> <br><br> "
+      }
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1997",
+        "month": "10",
+        "day": "29"
+      },
+      "end_date": {
+        "year": "1997",
+        "month": "10",
+        "day": "27"
+      },
+      "text": {
+        "headline": "Ecovillage Workshop",
+        "text": "<i>Tlholego Institute, Rustenburg, S. Africa</i> <br><br> "
+      }
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1997",
+        "month": "10",
+        "day": "30"
+      },
+      "end_date": {
+        "year": "1997",
+        "month": "10",
+        "day": "30"
+      },
+      "text": {
+        "headline": "Open House Presentation on Ecovillages for Ministries of Government",
+        "text": "<i>Johannesburg, S. Africa</i> <br><br> "
+      }
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1997",
+        "month": "11",
+        "day": "1"
+      },
+      "end_date": {
+        "year": "1997",
+        "month": "11",
+        "day": "3"
+      },
+      "text": {
+        "headline": "Ecovillage Workshop",
+        "text": "<i>Cape Town, S. Africa</i> <br><br> "
+      }
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1997",
+        "month": "10",
+        "day": "3"
+      },
+      "end_date": {
+        "year": "1997",
+        "month": "10",
+        "day": "3"
+      },
+      "text": {
+        "headline": "Ecovillage Open House",
+        "text": "<i>Monkey Valley Nature Resort, Nordhoek, S. Africa</i> <br><br> "
+      }
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1997",
+        "month": "11",
+        "day": "19"
+      },
+      "end_date": {
+        "year": "1997",
+        "month": "11",
+        "day": "22"
+      },
+      "text": {
+        "headline": "International Symposium and Design Workshop on Ecovillage and Permaculture",
+        "text": "<i>Seoul, Korea</i> <br><br> "
+      }
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1998",
+        "month": "1",
+        "day": "10"
+      },
+      "end_date": {
+        "year": "1998",
+        "month": "1",
+        "day": "16"
+      },
+      "text": {
+        "headline": "ENA Delegates Council Meeting at Huehuecoyotl",
+        "text": "<i>Tepoztlan, Mexico</i> <br><br> "
+      }
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1998",
+        "month": "1",
+        "day": "17"
+      },
+      "end_date": {
+        "year": "1998",
+        "month": "1",
+        "day": "17"
+      },
+      "text": {
+        "headline": "Consejo de Visiones",
+        "text": "<i>Camp Meztitla, Tepoztlan, Mexico</i> <br><br> "
+      }
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "1998",
+        "month": "6",
+        "day": "25"
+      },
+      "end_date": {
+        "year": "1998",
+        "month": "6",
+        "day": "30"
+      },
+      "text": {
+        "headline": "GEN Europe Meeting",
+        "text": "<i>Torri Superiori, Italy</i> <br><br> "
+      }
+    },
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1998","month":"7","day":""},"end_date":{"year":"1998","month":"7","day":""},"text":{"headline":"Ecovillage Best Practices","text":"<i>Uppachi, Bagnaia and Casa Cares, Italy</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1998","month":"7","day":""},"end_date":{"year":"1998","month":"7","day":""},"text":{"headline":"RIVE meeting workshops","text":"<i>Casa Cares, Italy</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1998","month":"7","day":""},"end_date":{"year":"1998","month":"7","day":""},"text":{"headline":"“Proto-Ecovillages\" Wilhelmina Symposium for High Level Officials","text":"<i>Amsterdam and The Hague</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1998","month":"7","day":""},"end_date":{"year":"1998","month":"7","day":""},"text":{"headline":"\"A Pattern Language of Ecovillages\" and \"Ecovillages in the Americas\" ","text":"<i>Amsterdam</i> <br><br>Plenary on GlobalEcovillage Network, International Communal Studies Association Conference on Utopias and Sustainable Communities"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1998","month":"7","day":""},"end_date":{"year":"1998","month":"7","day":""},"text":{"headline":"GEN Board Meeting","text":"<i>Amsterdam, Terre d'Eneille, and Lebensgarten</i> <br><br>Significant in that we took up the question of expansion to other regions following the application of the Eastern Mediterranean/North Africa as a regional network"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1998","month":"7","day":""},"end_date":{"year":"1998","month":"7","day":""},"text":{"headline":"La Caravana reaches Colombia","text":"<i>Colombia</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1998","month":"9","day":"4"},"end_date":{"year":"1998","month":"9","day":"4"},"text":{"headline":"\"Ecovillages in the Americas\" government ministers meeting","text":"<i>Copenhagen, Denmark</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1998","month":"9","day":"6"},"end_date":{"year":"1998","month":"9","day":"11"},"text":{"headline":"Ecovillage Education Seminar and Retreat","text":"<i>Fjordvang, Denmark</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1998","month":"9","day":"12"},"end_date":{"year":"1998","month":"9","day":"16"},"text":{"headline":"GEN 3-year Review","text":"<i>Fjordvang, Denmark</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1998","month":"9","day":"18"},"end_date":{"year":"1998","month":"9","day":"24"},"text":{"headline":"Ecovillage Network of the Americas meeting","text":"<i>Cameron, Ontario</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1998","month":"9","day":"25"},"end_date":{"year":"1998","month":"9","day":"27"},"text":{"headline":"Ecovillage Design Course","text":"<i>Cameron, Ontario</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1998","month":"19","day":"4"},"end_date":{"year":"1998","month":"19","day":"8"},"text":{"headline":"\"Selective Change: Indigenous Ecovillaging\" at the Conference on Indigenous Wisdom and Healing: Belonging to Mother Earth","text":"<i>Virginia Beach, VA</i> <br><br>Significant in that we met the albino chief of the Kuna and cemented the ENA/Caravana connection with Jason and Penelope's bus leaving to join"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1999","month":"3","day":""},"end_date":{"year":"1999","month":"6","day":""},"text":{"headline":"ENA Steering Committee","text":"<i>Sun Run Centre, Ontario</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1999","month":"3","day":"12"},"end_date":{"year":"1999","month":"3","day":"12"},"text":{"headline":"Propuestas para Habitats Sustentables del Siglo XXI","text":"<i>CICEANA, Mexico City</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1999","month":"3","day":"15"},"end_date":{"year":"1999","month":"3","day":"20"},"text":{"headline":"GEN Board Meeting","text":"<i>Huehuecoyotl, Mexico</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1999","month":"4","day":"1"},"end_date":{"year":"1999","month":"4","day":"1"},"text":{"headline":"Ecovilas - Comunidates Sustentaveis, International Seminars","text":"<i>Brazil: UFRGS, Porto Alegre, Rio Grande do Sul; <br>Unisinos, Sao Leopoldo, Rio Grande do Sul; <br>IBAMA, Brazilia</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1999","month":"6","day":"10"},"end_date":{"year":"1999","month":"6","day":"10"},"text":{"headline":"Ecovillage and Permaculture Movement Workshop","text":"<i>Lama Foundation, NM</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1999","month":"6","day":"14"},"end_date":{"year":"1999","month":"6","day":"14"},"text":{"headline":"ENA Meeting, EarthArts and Manitou Inst. ","text":"<i>Crestone CO</i> <br><br>This was the first meeting with an expanded ENA board of two delegates from each of the seven regions in attendance, plus ENA staffers and facilitators."}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1999","month":"9","day":"23"},"end_date":{"year":"1999","month":"9","day":"26"},"text":{"headline":"\"Ecovillage Self-Audit Tools\" (with Linda Joseph), and \"Community in Cyberspace\"","text":"<i>St. George, Utah</i> <br><br>Panel at the Communal Studies Association Annual Meeting"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1999","month":"9","day":"24"},"end_date":{"year":"1999","month":"9","day":"24"},"text":{"headline":"United Brethren Tour. Plenary and other presentations.","text":"<i>Colorado City, Arizona</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1999","month":"10","day":"1"},"end_date":{"year":"1999","month":"10","day":"9"},"text":{"headline":"First International Meeting of the Council of the Americas","text":"<i>Moffat, Colorado</i> <br><br>Significant in being the first full assembly of two delegates from all seven regions"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"1999","month":"11","day":"20"},"end_date":{"year":"1999","month":"11","day":"27"},"text":{"headline":"Plenary presentations, rural villages in Sri Lanka, concurrent with GEN Board meeting","text":"<i>Columbo, Sri Lanka</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2000","month":"3","day":"10"},"end_date":{"year":"2000","month":"3","day":"10"},"text":{"headline":"GEN White Paper on Sustainable Futures, UN Conference on the Next Millennium","text":"<i>W. Samoa</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2000","month":"4","day":"2"},"end_date":{"year":"2000","month":"4","day":"5"},"text":{"headline":"\"From Villagescapes to Urban Sprawl: Community Planning and Architecture since 400,000 BP\"","text":"<i>Univ of S. Indiana, Evansville</i> <br><br>International Symposium on New Communities for the New Century: Answers for Retirement and Ecology"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2000","month":"6","day":"1"},"end_date":{"year":"2000","month":"6","day":"3"},"text":{"headline":"\"The Economic, Technical and Organizational Foundations of Ecovillages,\" National Meeting on Advancing Community Sustainability","text":"<i>Roanoke VA</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2000","month":"6","day":"10"},"end_date":{"year":"2000","month":"6","day":"17"},"text":{"headline":"GEN Meeting","text":"<i>Torri Superiori, Italy</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2000","month":"6","day":"18"},"end_date":{"year":"2000","month":"6","day":"19"},"text":{"headline":"GEN Meeting","text":"<i>Damanhur, Italy</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2000","month":"6","day":"21"},"end_date":{"year":"2000","month":"6","day":"27"},"text":{"headline":"Hannover Expo 2000","text":"<i>Hannover</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2000","month":"9","day":"16"},"end_date":{"year":"2000","month":"9","day":"22"},"text":{"headline":"Ecovillage Design","text":"<i>Reserva Integral Sasardi, Trigana, Darien Chocoano, Colombia</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2000","month":"9","day":"21"},"end_date":{"year":"2000","month":"9","day":"24"},"text":{"headline":"Ecoconstruction, Appropriate Technology and Permaculture","text":"<i>Town Of Unguia, Darien Chocoano, Colombia</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2000","month":"10","day":"3"},"end_date":{"year":"2000","month":"10","day":"9"},"text":{"headline":"Permaculture Advanced Course","text":"<i>Reserva Integral Sasardi, Trigana, Darien Chocoano, Colombia</i> <br><br>This was organized by Beatriz Arjona, Liora Adler, and Ecoaldea Montana Magica near Medellin. The military was apparently worried for our safety so they garrisoned a regiment of the armed forces under the command of a twostar, Tenete Nelson Enrique Chacon, so that you couldn't sneeze in the town without dampening the collar of a soldier. Nelson enrolled in our course but was not taking notes or understanding the material. The National Police also assigned a Lt. Hernandez and in contrast, he was very studious because Chief of Police Reyes has instructed him to teach everything he learned after the course. When we did a cob dance with the C.O. and the Lt., their M-16s leaning against coconut palms, out there stomping and tossing cobs, there were several hundred schoolkids gawking, pointing and giggling at the officers getting all muddy."}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2000","month":"9","day":""},"end_date":{"year":"2000","month":"9","day":""},"text":{"headline":"ENA Council Meeting","text":"<i>Sasardi Colombia</i> <br><br>Sasardi Ecovillage hosted the ENA gathering in Colombia, bringing together ENA representatives to meet in a high jungle ecovillage deep in the Darien Peninsula and afterward using our collected talents to provide more courses for refugees and villagers in the war zones of the terrorist conflict: Apartado, Unguia, Trigana. The FARC controlled the surrounding mountains and killed 60 civilians in roadblocks that month we were there. We gave a permaculture fundamentals course to the Kuna people who manage Panama’s World Biodiversity Reserve and are abused by all sides of the civil war. We instructed refugees fleeing La Violencia how to construct natural homes of earthbags, cob and strawbale better suited to the local conditions than the plastic tent shelters they were being provided by aid agencies. We taught them the principles of permaculture. The Mayor of Unguia, who invited us into the camps, was assassinated by either FARC or landowner paramilitaries the week after we left. We had some narrow escapes ourselves but were protected at night by Tenete Nelson whose Colombian Defense Force camped close to us. I wrote this story for Grist magazine in December 2000."}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2001","month":"2","day":"24"},"end_date":{"year":"2001","month":"2","day":"25"},"text":{"headline":"With Helena Norberg Hodge, International Forum on Globalization","text":"<i>New York, NY</i> <br><br>This forum, at Riverside Church, brought together many different groups interested in mitigating the negative effects of globalization. While Helena’s Ladakh project was our main display point, we had the opportunity to cross-fertilize with many international groups who had never heard of ecovillages before."}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2001","month":"8","day":""},"end_date":{"year":"2001","month":"8","day":""},"text":{"headline":"Consejo de Visiones II","text":"<i>Tepoztlan and Amatlan, Mexico</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2001","month":"1","day":""},"end_date":{"year":"2001","month":"12","day":""},"text":{"headline":"Production assistance to MSNBC Investigates: A Different Drum","text":"<i>Summertown TN</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2001","month":"9","day":"10"},"end_date":{"year":"2001","month":"9","day":"13"},"text":{"headline":"\"Strategic White Paper on Ecovillage Network Organizational Development\" and \"Guidelines for Network Organizers”, 54th Annual DPI/NGO Congress at the United Nations","text":"<i>New York, NY</i> <br><br>While at this UN meeting Liora Adler, Linda Joseph, Giovanni Ciarlo, Albert Bates, Lois Arkin and Orlando Balbas directly experienced the 9-11 attack on New York City. Lois\nvolunteered with a soup kitchen. Linda worked at a call center set up by Wall Street firms to reconnect family members."}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2001","month":"10","day":"30"},"end_date":{"year":"2001","month":"11","day":"15"},"text":{"headline":"Women’s Peace Village in Ecuador","text":"<i>Equador</i> <br><br>With support through ENA from the US State Department Bureau of Cultural Affairs, from October 30 to November 15, 2001 La Caravana convened meetings in Quito with 23 leaders of 12 national women’s organizations representing grassroots, political, urban, production, youth, women’s rights and social and economic development groups. \n<br><br>\nNoting that coastal groups were up until that time inadequately represented in the database of community development organizations, La Caravana traveled to the provinces of Manabí and Guayas in January, 2002. After extensive investigation, la Caravana chose Azuay as the most appropriate province for hosting the Women’s Peace Village. \n<br>\nFrom February to May of 2002, a total of forty women leaders selected by RSMEF and Tejemujeres members participated in ENA workshops in: <br>\n<br>- Administrative Skills\n<br>- Event Planning\n<br>- Consensus Decision-Making / Meeting Facilitation / Conflict Resolution\n<br>- Video Documentation. \n<br><br>\nThree trainers were from the U.S. (Consensus Decision-Making, Meeting Facilitation and Video Documentation). Another trainer for Video Documentation was brought from Mexico, and international trainers aboard la Caravana brought diversity to the group from Spain, Italy, Mexico, Argentina, and Colombia. Most of the trainers were women, all were Spanish speakers, and they came from diverse social, geographic, economic and cultural backgrounds. Training and resource materials were translated into Spanish as needed and were provided for all participants. Child care was provided.The two-month Peace Village brought 140 women leaders from all parts of Ecuador and included women from 109 Ecuadorian women’s organizations and 16 provinces, reflecting an extraordinary geographical and cultural diversity. \n<br><br>\nOne product was the production of a database detailing more than 280 women’s groups, which was put on CD-ROM and made available to the women’s organizations. It is to our knowledge the only relatively complete listing of women’s organizations in Ecuador and as such represented an important step in the unification of the women’s leadership movement, which for three months coalesced around the concept of ecovillage design and development in both urban and rural contexts. \n<br><br>\nhttp://www.i4at.org/peacevillage/FINALREPORTWPV.html"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2002","month":"1","day":"30"},"end_date":{"year":"2002","month":"1","day":"30"},"text":{"headline":"The Ecovillage Movement in Agenda 21","text":"<i>UN Headquarters, NY</i> <br><br>Illustrated presentation to the United Nations Commission on Sustainable Development serving as Prepcom II for the World Summit on Sustainable Development"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2002","month":"4","day":"5"},"end_date":{"year":"2002","month":"4","day":"5"},"text":{"headline":"The Ecovillage Movement in Agenda 21","text":"<i></i> <br><br>Earth Values Caucus, Prepcom II and to Berea College Ecovillage Program"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2002","month":"9","day":"3"},"end_date":{"year":"2002","month":"9","day":"3"},"text":{"headline":"Ecovillage Design Principles, presentation at Univ. of Wittenberg","text":"<i>Johannesburg S. Africa</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2002","month":"9","day":"1"},"end_date":{"year":"2002","month":"9","day":"5"},"text":{"headline":"Ecovillages, UNDP Community Kraal, World Summit on Sustainable Development","text":"<i>Johannesburg S. Africa</i> <br><br>The WSSD was a very large conference in South Africa and GEN used the opportunity to offer workshops and tours, hold a board meeting, and connect with many other UN NGOs with parallel interests. GEN was involved from start to finish and had one of the best locations at the conference, sponsored by UNDP. It was preceded by meetings, workshops and tours at the Thlolego Ecovillage in Rustenberg, South Africa."}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2002","month":"10","day":"7"},"end_date":{"year":"2002","month":"10","day":"13"},"text":{"headline":"Ecovillage Best Practices, Continental Bioregional Congress on the Prairie","text":"<i>Lawrence, KS</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2003","month":"9","day":"20"},"end_date":{"year":"2003","month":"9","day":"23"},"text":{"headline":"Ecovillages and Sustainable Communities","text":"<i>Cuzco, Peru</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2003","month":"9","day":"24"},"end_date":{"year":"2003","month":"9","day":"29"},"text":{"headline":"Call of the Condor: GEN/ENA board meetings","text":"<i>Camp Veronica, Km 82, Qosco Peru</i> <br><br>Llamada de Condor included a Spring Equinox sunrise gathering on Machu Piccu, workshops in Inti Allyu, Ollantetambo, Urubaba, and other parts of the Sacred Valley, a large gathering of delegates from all regions of ENA, and a bioregional Consejo de Visiones for a thousand people for a week in the shadow of Mt. Veronica"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2004","month":"5","day":"26"},"end_date":{"year":"2004","month":"5","day":"29"},"text":{"headline":"Ecovillage design and natural building tour and slide show","text":"<i>The Farm ecovillage</i> <br><br>Communities Activist Summit "}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2004","month":"6","day":"28"},"end_date":{"year":"2004","month":"6","day":"30"},"text":{"headline":"Ecovillage design and natural building tour and slide show","text":"<i>Amana, IA</i> <br><br>International Communal Studies Association"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2004","month":"","day":""},"end_date":{"year":"2004","month":"","day":""},"text":{"headline":"Founding of Gaia University","text":"<i></i> <br><br>By Liora Adler and Andrew Langford following the Ecovillage Education Summit at Findhorn"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2004","month":"9","day":"19"},"end_date":{"year":"2004","month":"9","day":"25"},"text":{"headline":"GEN North American Conference on Ecovillages","text":"<i>Cortes Is, BC</i> <br><br>This event, overseen by myself, Max Lindegger, and Diana Leafe Christian, really launched the western end of the Ecovillage Network of Canada. Following this meeting a number of excellent ecovillages began that are still going strong today."}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2005","month":"4","day":"11"},"end_date":{"year":"2005","month":"4","day":"11"},"text":{"headline":"Ecovillages and Sustainable Communities","text":"<i>New York</i> <br><br>UN Committee on Sustainable Development, 14th Annual Meeting"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2005","month":"4","day":"13"},"end_date":{"year":"2005","month":"4","day":"13"},"text":{"headline":"Sustainable Village Criteria","text":"<i>New Haven CT</i> <br><br>Faculty, Yale University Dept of Forestry"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2005","month":"5","day":"1"},"end_date":{"year":"2005","month":"5","day":"4"},"text":{"headline":"Implementation of Ecovillages and Sustainable Communities","text":"<i>New York</i> <br><br>UN Committee on Sustainable Development, 14th Annual Meeting"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2007","month":"5","day":"16"},"end_date":{"year":"2007","month":"5","day":"18"},"text":{"headline":"International Permaculture Conference","text":"<i>Sao Paolo, Brazil</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2007","month":"5","day":"22"},"end_date":{"year":"2007","month":"5","day":"25"},"text":{"headline":"8th International Permaculture Convergence","text":"<i>Pirenopolis, Brazil</i> <br><br>This international convergence was 5 convergences after our introduction in Perth in 1996. It was also the first to be held in an actual ecovillage, Ecocentro. A better venue anywhere in the world cannot be found. It was, incidentally, also the first introduction of the permaculture world to biochar, with a boat tour of terra preta sites along the Amazon and Rio Negro."}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2007","month":"5","day":"29"},"end_date":{"year":"2007","month":"5","day":"30"},"text":{"headline":"ENA Council Meeting","text":"<i>Sao Paolo, Brazil</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2007","month":"6","day":"28"},"end_date":{"year":"2007","month":"6","day":"30"},"text":{"headline":"Plenary presentation, ICSA Triannual Meeting","text":"<i>Damanhur, Italy</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2008","month":"5","day":"28"},"end_date":{"year":"2008","month":"6","day":"1"},"text":{"headline":"Local Futures Conference","text":"<i>Gand Rapids, MI</i> <br><br>\"Local Futures: Local Money\", and \"Local Futures: Ecovillages and Transition Towns\""}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2009","month":"6","day":"26"},"end_date":{"year":"2009","month":"6","day":"26"},"text":{"headline":"Baird Hall Lecture","text":"<i>Smithsonian Museum of National History, Washington DC</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2009","month":"7","day":"11"},"end_date":{"year":"2009","month":"7","day":"12"},"text":{"headline":"Terra Preta Conference","text":"<i>Manaus, Brazil</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2009","month":"10","day":"3"},"end_date":{"year":"2009","month":"10","day":"22"},"text":{"headline":"10th Continental Bioregional Congress","text":"<i>The Farm, TN</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2009","month":"11","day":"28"},"end_date":{"year":"2009","month":"12","day":"11"},"text":{"headline":"UN Climate Summit","text":"<i>Copenhagen, Denmark</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2009","month":"","day":""},"end_date":{"year":"2009","month":"","day":""},"text":{"headline":"World Social Forums","text":"<i></i> <br><br>There were a number of World Social Forum gatherings in these years but I did not attend any and so those have not been included. I know GEN was there."}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2012","month":"6","day":"16"},"end_date":{"year":"2012","month":"6","day":"22"},"text":{"headline":"Rio+20","text":"<i>Rio de Janeiro, Brazil</i> <br><br>Workshops, UN Summit on Sustainable Development"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2016","month":"9","day":"30"},"end_date":{"year":"2016","month":"10","day":"9"},"text":{"headline":"Ecovillage Design Education Module: Ecology","text":"<i>Xu Ling, Zhejiang, China</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2016","month":"10","day":"9"},"end_date":{"year":"2016","month":"10","day":"15"},"text":{"headline":"Permaculture Teacher Training","text":"<i>Xu Ling, Zhejiang, China</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2016","month":"10","day":"20"},"end_date":{"year":"2016","month":"10","day":"23"},"text":{"headline":"2d International Ecovillage Conference","text":"<i>Hangzhou, China</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2016","month":"10","day":"25"},"end_date":{"year":"2016","month":"10","day":"30"},"text":{"headline":"Commonwealth of Nations","text":"<i>London Marborough House</i> <br><br>Meeting on Initiatives for Regenerative Design and Climate Restoration"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2016","month":"11","day":"7"},"end_date":{"year":"2016","month":"11","day":"19"},"text":{"headline":"22d Conference of Parties to the UN Convention on Climate Change","text":"<i>Marrakech, Morocco</i> <br><br>(Numerous side events)"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2016","month":"11","day":"9"},"end_date":{"year":"2016","month":"11","day":"9"},"text":{"headline":"GEN Webinar: Cool Communities and the UN Climate Framework","text":"<i></i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2016","month":"11","day":"13"},"end_date":{"year":"2016","month":"11","day":"13"},"text":{"headline":"Terre des Etoiles Sahara Reforestation Project","text":"<i>Morocco</i> <br><br>This was GEN’s meet andgreet with John D. Liu’s Ecosystem Restoration Camps movement. I had known John since he showed me his Loess Valley documentary film at a meeting of the Society for Ecological Restoration’s annual meeting in Merida, Mexico some years earlier. The GEN delegation at COP 22 now got to get out and get dirty building earthworks at the edge of the Sahara with the Hopi Raincatchers."}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2017","month":"5","day":"16"},"end_date":{"year":"2017","month":"5","day":"18"},"text":{"headline":"Climate Finance and Regenerative Development for the Commonwealth and Belize Cool Lab","text":"<i>Marlborough House, London</i> <br><br>At the first meeting I attended in Marlborough House at the invitation of Baroness Patricia Scotland, John Liu, Daniel Wahl and I were the only ones acquainted with ecovillages. At this follow-up one year later, we stacked the deck"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2017","month":"5","day":"26"},"end_date":{"year":"2017","month":"5","day":"26"},"text":{"headline":"Ecovillage Patterns and Solutions, Fellowship for Intentional Community Board Retreat and Communities Conference","text":"<i>The Farm, TN</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2017","month":"8","day":""},"end_date":{"year":"2017","month":"9","day":""},"text":{"headline":"Irish tour 2017","text":"<i>Ireland</i> <br><br>- Can we get some Cool On? (Kilkenny Fringe, Bosco’s, Kilkenny Ireland, Aug 9,\n2017)\n<br><br>\n- Ecovillage Strategies (Fien e Phobail, Belfast, August 10, 2017)\n<br><br>\n- Permaculture Design Course (Cloughjordan, Ireland, Aug 11–20, 2017)\n<br><br>\n- In Search of the Lost Cool (WeCreate Centre, Ireland, Aug\n18, 2017)\n<br><br>\n- Cool Futures, Ecovillages, and Surfing for Change (Global Green, Electric Picnic, Sep 1-3,\n2017)"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2017","month":"11","day":"10"},"end_date":{"year":"2017","month":"11","day":"16"},"text":{"headline":"23d Conference of Parties to the UN Convention on Climate Change","text":"<i>Bonn, Germany</i> <br><br>(numerous side events)"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2017","month":"11","day":"21"},"end_date":{"year":"2017","month":"11","day":"29"},"text":{"headline":"13th International Permaculture Conference and Convergence","text":"<i>Hyderabad, India</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2018","month":"7","day":"5"},"end_date":{"year":"2018","month":"7","day":"14"},"text":{"headline":"Cool Living Workshop and Cool Villages presentations GEN Europe Annual Meeting","text":"<i>Lilleoru, Estonia</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2018","month":"7","day":"25"},"end_date":{"year":"2018","month":"7","day":"25"},"text":{"headline":"“Cool Communities: Biochar Cascades and Ecovillage Design”","text":"<i>St. Petersburg Puzzle Club, MENSA, St. Petersburg Russia</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2018","month":"8","day":"21"},"end_date":{"year":"2018","month":"8","day":"21"},"text":{"headline":"Carbon Cascades: The New Drawdown Economy, US Biochar Initiative 2018 Conference","text":"<i>Wilmington DE</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2018","month":"8","day":"30"},"end_date":{"year":"2018","month":"8","day":"31"},"text":{"headline":"Eco-Civilization Training: A Pedagogical Approach, Dujiangyan Rural Sustainable Development Educators Forum","text":"<i>Chengdu China</i> <br><br>GEN EDE teachers brought to China by UNESCO were invited to participate in this national conference of Rural Sustainable Development Educators."}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2018","month":"9","day":"1"},"end_date":{"year":"2018","month":"9","day":"9"},"text":{"headline":"GEN Ecovillage Design Education Course","text":"<i>Dujiangyan, China</i> <br><br>UNESCO Dujiangyan Rural Sustainable Development Center"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2018","month":"9","day":"13"},"end_date":{"year":"2018","month":"9","day":"13"},"text":{"headline":"Lecture: Xi Jinping’s Eco-Civilization Implementation: An Integrated Approach","text":"<i>Nanjing Agricultural University, Nanjing, China</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2019","month":"4","day":"4"},"end_date":{"year":"2019","month":"4","day":"4"},"text":{"headline":"Webinar: GEN Climate and Consciousness","text":"<i>Forres, Scotland</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2019","month":"7","day":"16"},"end_date":{"year":"2019","month":"7","day":"17"},"text":{"headline":"Biochar Masterclass, GEN Europe Assembly","text":"<i>Bagnaia, Italy</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2019","month":"10","day":"3"},"end_date":{"year":"2019","month":"10","day":"4"},"text":{"headline":"Commonwealth Reversing Climate Change award finalist meetings","text":"<i>Marlborough House, London</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2019","month":"12","day":"2"},"end_date":{"year":"2019","month":"12","day":"11"},"text":{"headline":"23d Conference of Parties to the UN Convention on Climate Change","text":"<i>Madrid, Spain</i> <br><br>(numerous side events with GEN)"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2019","month":"12","day":"8"},"end_date":{"year":"2019","month":"12","day":"8"},"text":{"headline":"World Climate Summit - The Investment COP 2019","text":"<i>Madrid, Spain</i> <br><br>"}},
+    {"media":{"url":"","caption":"","credit":""},"start_date":{"year":"2021","month":"5","day":"30"},"end_date":{"year":"2021","month":"5","day":"30"},"text":{"headline":"Regenerative Agriculture for Ecovillages, GEN Ecovillage Design Course webinar","text":"<i></i> <br><br>"}}
   ]
 };
 
